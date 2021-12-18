@@ -1,0 +1,72 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "body": "Tempor pariatur duis ullamco nostrud magna id proident deserunt non sit. Laborum qui consectetur excepteur officia. "
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "body": "Tempor pariatur duis ullamco nostrud magna id proident deserunt non sit. Laborum qui consectetur excepteur officia. "
+    },
+    {
+      "id": 3,
+      "title": "Post 3",
+      "body": "Tempor pariatur duis ullamco nostrud magna id proident deserunt non sit. Laborum qui consectetur excepteur officia. "
+    },
+    {
+      "id": 4,
+      "title": "Post 4",
+      "body": "Tempor pariatur duis ullamco nostrud magna id proident deserunt non sit. Laborum qui consectetur excepteur officia. "
+    },
+    {
+      "id": 5,
+      "title": "Post 5",
+      "body": "Tempor pariatur duis ullamco nostrud magna id proident deserunt non sit. Laborum qui consectetur excepteur officia. "
+    },
+    {
+      "id": 6,
+      "title": "Post 6",
+      "body": "Tempor pariatur duis ullamco nostrud magna id proident deserunt non sit. Laborum qui consectetur excepteur officia. "
+    },
+    {
+      "id": 7,
+      "title": "Post 7",
+      "body": "Tempor pariatur duis ullamco nostrud magna id proident deserunt non sit. Laborum qui consectetur excepteur officia. "
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "user1@test.com",
+      "firstname": "First",
+      "lastname": "User",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "email": "user2@test.com",
+      "firstname": "Second",
+      "lastname": "User",
+      "role": "user"
+    },
+    {
+      "id": 3,
+      "email": "user3@test.com",
+      "firstname": "Third",
+      "lastname": "User",
+      "role": "guest"
+    },
+    {
+      "id": 4,
+      "email": "user1@test.com",
+      "firstname": "Fourth",
+      "lastname": "User",
+      "role": "user"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
