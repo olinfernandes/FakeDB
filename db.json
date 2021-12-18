@@ -1,4 +1,30 @@
 {
+  "todos": [
+    {
+      "id": "f2905879-6bc0-4f7a-b6c7-7c6390fde4e4",
+      "task": "First todo",
+      "details": "Create the first Todo",
+      "completed": true
+    },
+    {
+      "id": "a1622fca-e698-4b26-ba48-ca390a24bacf",
+      "task": "Second todo",
+      "details": "Hook up frontend to FakeDB TODOS",
+      "completed": false
+    },
+    {
+      "id": "a69c056d-ee6b-47a0-9fcd-542c89c26556",
+      "task": "Third todo",
+      "details": "Hook up frontend to FakeDB USERS",
+      "completed": false
+    },
+    {
+      "id": "11f0f944-c399-44ff-8420-debcfa816f3d",
+      "task": "Third Todo",
+      "details": "Hook up fronted to FakeDB POSTS",
+      "completed": false
+    },
+  ],
   "posts": [
     {
       "id": "7d511845-9935-4295-b1c2-47ac69d7b016",
