@@ -23,7 +23,7 @@
       "task": "Third Todo",
       "details": "Hook up fronted to FakeDB POSTS",
       "completed": false
-    },
+    }
   ],
   "posts": [
     {
