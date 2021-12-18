@@ -10,7 +10,7 @@
       "id": "a1622fca-e698-4b26-ba48-ca390a24bacf",
       "title": "Second todo",
       "body": "Hook up frontend to FakeDB TODOS",
-      "completed": false
+      "completed": true
     },
     {
       "id": "a69c056d-ee6b-47a0-9fcd-542c89c26556",
